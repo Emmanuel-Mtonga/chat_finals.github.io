@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chat_finals.github.io/static/css/main.fc5dd30a.css",
+    "main.css": "/chat_finals.github.io/static/css/main.f99997d5.css",
     "main.js": "/chat_finals.github.io/static/js/main.552d2ce9.js",
     "index.html": "/chat_finals.github.io/index.html",
-    "main.fc5dd30a.css.map": "/chat_finals.github.io/static/css/main.fc5dd30a.css.map",
+    "main.f99997d5.css.map": "/chat_finals.github.io/static/css/main.f99997d5.css.map",
     "main.552d2ce9.js.map": "/chat_finals.github.io/static/js/main.552d2ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5dd30a.css",
+    "static/css/main.f99997d5.css",
     "static/js/main.552d2ce9.js"
   ]
 }
